@@ -1,0 +1,24 @@
+body {
+  background-color: bisque;
+}
+
+.btnn {
+  padding: 15px;
+  font-weight: bold;
+  font-size: 22px;
+  font-family: "Helvetica";
+  background-color: bisque;
+  border-radius: 5px;
+  /* border: 2px solid; */
+}
+.color-picker {
+  padding: 15px;
+  height: 300px;
+  width: 550px;
+  margin-left: 450px;
+  margin-top: 100px;
+  text-align: center;
+}
+.btnn:hover {
+  background-color: beige;
+}
